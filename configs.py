@@ -27,9 +27,9 @@ I can Merge Multiple Videos in One Video. Video Formats should be same.
 """
     CAPTION = "Video Merged by @{}\n\n@dvvideomerge_bot"
     PROGRESS = """
-Percentage : {0}%
-Done: {1}
-Total: {2}
-Speed: {3}/s
-ETA: {4}
+📊 Percentage : {0}%
+✅ Done: {1}
+🌐 Total: {2}
+🚀 Speed: {3}/s
+⏰ ETA: {4}
 """

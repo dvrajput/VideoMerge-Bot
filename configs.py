@@ -23,7 +23,7 @@ class Config(object):
 Hi, I am Video Merge Bot!
 I can Merge Multiple Videos in One Video. Video Formats should be same.
 
-Made by @AbirHasan2005
+@dvmoviesbackup
 """
     CAPTION = "Video Merged by @{}\n\n@dvvideomerge_bot"
     PROGRESS = """

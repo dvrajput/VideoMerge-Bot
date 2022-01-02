@@ -56,8 +56,8 @@ async def start_handler(bot: Client, m: Message):
         quote=True,
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("Developer", url="https://t.me/profesar_bot")],
-                [InlineKeyboardButton("Bots Channel", url="https://t.me/dvmoviesbackup")],
+                [InlineKeyboardButton("Creator", url="https://t.me/profesar_bot")],
+                [InlineKeyboardButton("Chennal", url="https://t.me/dvmoviesbackup")],
                 [InlineKeyboardButton("Open Settings", callback_data="openSettings")],
                 [InlineKeyboardButton("Close", callback_data="closeMeh")]
             ]
